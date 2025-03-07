@@ -2,26 +2,9 @@
 
 A lot of people were asking because we removed it from Tebex. You can use it as open source.
 
-There is no support for this script. Items you need to add;
+There is no support for this script. Items that need to be added are available in the file.
 
-sound_system
-axle_parts
-body_parts
-brake_parts
-clutch_parts
-cooling_parts
-electronic_parts
-engine_parts
-fuel_injectors
-transmission_parts
+This script was last updated in 2022. There may be security issues or it may not work. You are solely responsible.
 
-plastic
-metalscrap
-copper     
-aluminum
-aluminumoxide
-iron
-ironoxide
-steel
-rubber
-glass
+
+https://www.youtube.com/watch?v=9hugfKHzXUU&t
